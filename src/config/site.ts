@@ -60,7 +60,7 @@ export const SITE_CONFIG: SiteConfig = {
 
   // Set your real contact email before production release:
   // e.g., "contact@yourdomain.com"
-  contactEmail: "REPLACE_WITH_REAL_EMAIL",
+  contactEmail: "mallaiahnallabothula@gmail.com",
 
   // Set to true once registered with verified affiliate networks.
   // When false, the website displays validation-stage educational disclosures.
