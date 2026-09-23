@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Note: Once the real Cloudflare Pages URL or custom domain is finalized,
+# add the absolute Sitemap directive here (e.g., Sitemap: https://<your-project>.pages.dev/sitemap.xml)
